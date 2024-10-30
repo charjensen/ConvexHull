@@ -1,5 +1,8 @@
 # Convex Hull
 
+Demo:
+[![Convex Hull](https://img.youtube.com/vi/WBNjOkRs1NU/0.jpg)](https://www.youtube.com/watch?v=WBNjOkRs1NU)
+
 This Java program computes the convex hull of a set of points using both brute force and QuickHull algorithms. The program uses the `DUDraw` library for visualizing the points and the convex hull.
 
 ## Features
